@@ -1,0 +1,22 @@
+{
+  "name": "desafio-001-opbdelivery",
+  "version": "1.0.0",
+  "description": "Desafio 001 - Node + express + SQS + H2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiofs2021/desafio-001-opbdelivery.git"
+  },
+  "author": "Fabio Fonseca da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiofs2021/desafio-001-opbdelivery/issues"
+  },
+  "homepage": "https://github.com/fabiofs2021/desafio-001-opbdelivery#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
